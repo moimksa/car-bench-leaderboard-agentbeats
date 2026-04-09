@@ -9,7 +9,7 @@ env = { GEMINI_API_KEY = "${GEMINI_API_KEY}", LOGURU_LEVEL = "${LOGURU_LEVEL}" }
 
 [[participants]]
 # Submitters will fill in their purple agent details
-agentbeats_id = "019d7192-7825-7873-8f3b-946b3c77c938"
+agentbeats_id = "019d7253-566d-7542-abd4-f78d146ca354"
 name = "agent" # do not change
 env = { DASHSCOPE_API_KEY = "${DASHSCOPE_API_KEY}", DASHSCOPE_BASE_URL = "${DASHSCOPE_BASE_URL}", AGENT_LLM = "${AGENT_LLM}", AGENT_TEMPERATURE = 1.0, AGENT_THINKING = "true", LOGURU_LEVEL = "${LOGURU_LEVEL}" }
 
