@@ -20,4 +20,4 @@ task_split = "test"           # "train" or "test"
 tasks_base_num_tasks = -1     # First N tasks in type/split, -1 for all.
 tasks_hallucination_num_tasks = -1 # First N tasks in type/split, -1 for all.
 tasks_disambiguation_num_tasks = -1 # First N tasks in type/split, -1 for all.
-max_steps = 50
+max_steps = 50  # full submission
